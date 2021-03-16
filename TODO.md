@@ -1,6 +1,7 @@
 ## Upstream
 
 - Meta
+  - Structure
 - Art
   - Tattoos
 - Sharing
@@ -19,8 +20,7 @@
 ## Greenfield
 
 - Animals
-  - Cats
-    - Fostering
+  - Fostering cats
 - Fitness
   - Nutrition
 - Food
@@ -36,6 +36,8 @@
 - MacOS
   - Apps
   - Backups
+- Me
+  - Presence
 - Money
   - Investing
   - Budgeting
@@ -45,5 +47,6 @@
   - NAS
   - VPN
   - Home Automation
+- Sustainability
 - Travel
   - Trip log
