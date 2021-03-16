@@ -32,6 +32,7 @@
   - Sleep
   - ADHD
     - Concerta
+  - Care products
 - Hiking
   - Gear (have, want to buy)
   - Trip log
