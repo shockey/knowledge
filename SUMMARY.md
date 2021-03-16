@@ -20,8 +20,7 @@
 - [Entrepreneurship](entrepreneurship/entrepreneurship.md)
 
 - [Software Engineering](software-engineering/software-engineering.md)
-  - [AWS](software-engineering/aws/aws.md)
-    - [RDS](software-engineering/aws/rds.md)
+  - [AWS](software-engineering/aws.md)
   - [Cloud Computing](software-engineering/cloud-computing.md)
   - [Data Structures](software-engineering/data-structures.md)
   - [Job Search](software-engineering/job-search.md)
