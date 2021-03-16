@@ -1,6 +1,6 @@
 # Table of contents
 
-- [Meta](meta/meta.md)
+- [Meta](README.md)
 
 - [Systems](systems/systems.md)
   - [Personal Goalkeeping](systems/personal-goalkeeping.md)
