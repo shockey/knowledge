@@ -11,8 +11,10 @@
   - Things
 - Ideas
 - Life
+  - Parenting
+  - Death
 - Mindfulness
-- Drugs
+- Psychoactives
 - Travel
   - Want-to-visit
 - Relationships
@@ -31,7 +33,7 @@
   - ADHD
     - Concerta
 - Hiking
-  - Gear
+  - Gear (have, want to buy)
   - Trip log
 - MacOS
   - Apps
@@ -42,11 +44,17 @@
   - Investing
   - Budgeting
   - Insurance
+  - Debt
+- Other
+  - Karaoke
 - Personal Infra
   - Archival
   - NAS
   - VPN
   - Home Automation
+- Software Engineering
+  - College
 - Sustainability
 - Travel
   - Trip log
+  - Jetlag
