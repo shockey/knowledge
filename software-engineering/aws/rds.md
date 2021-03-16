@@ -1,0 +1,6 @@
+# RDS
+
+## Tips
+- **If you're running an Aurora database cluster, always point your application to [Aurora cluster endpoints](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Overview.Endpoints.html#Aurora.Endpoints.Cluster) instead of individual instances**. Aurora clusters can have several readers and a single writer. On failover, RDS will automatically promote a different instance to writer, which can cause issues if an application is expecting a specific instance to be in the writer or reader role. 
+  - This is in contrast to vanilla RDS, which has a manual inter-instance failover mechanism, and instead provides automatic failover via the Multi-AZ option.
+  - Note that cluster endpoints load-balance by simply vending low-TTL CNAME records for individual instance endpoints, which means existing connections won't move over when failover happens — the application would need to notice the dying connections and replace them with healthy ones. If a lighter touch is needed, [AWS RDS Proxy](https://aws.amazon.com/rds/proxy/) can minimize disruption and failover time for an additional cost.
