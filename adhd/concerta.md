@@ -15,7 +15,7 @@ The FDA doesn't require true generics to use the same delivery mechanisms as the
 It's for this reason that I make sure my Concerta prescriptions are filled as brand-only.
 
 ### Links
-
+- [Combined Stimulant and Guanfacine Administration in ADHD: A Controlled, Comparative Study (sciencedirect.com, 2016)](https://www.sciencedirect.com/science/article/pii/S0890856716302192) — combination therapy demonstrated small but consistently greater reductions in ADHD-RS-IV Inattentive scores versus monotherapies. 
 
 #### True generics issues
 * [Generic A.D.H.D. Drug, Not Equivalent to the Brand, Is in Use Anyway (nytimes.com, 2015)](https://www.nytimes.com/2015/06/17/business/generic-ritalin-drug-not-equivalent-to-the-brand-is-in-use-anyway.html)
