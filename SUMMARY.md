@@ -31,3 +31,6 @@
   - [Parsers](comp-sci/parsers.md)
 
 - [Philosophy](philosophy/philosophy.md)
+
+- [macOS](mac-os/mac-os.md)
+  - [Hyper shortcuts](mac-os/hyper-shortcuts.md)
