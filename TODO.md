@@ -37,7 +37,6 @@
   - Gear (have, want to buy)
   - Trip log
 - MacOS
-  - Apps
   - Backups
 - Me
   - Presence

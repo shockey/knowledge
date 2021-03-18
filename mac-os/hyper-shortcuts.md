@@ -1,6 +1,6 @@
 # Hyper shortcuts
 
-- Hyper + T: Toggle iTerm floating session
+- Hyper + S: Toggle iTerm floating session
 - Hyper + {H,J,K,L}: Arrow keys
 - Hyper + X: Show or Fill 1Password
 - Hyper + D: Things.app quick entry
