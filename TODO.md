@@ -35,7 +35,6 @@
   - Care products
 - Hiking
   - Gear (have, want to buy)
-  - Trip log
 - MacOS
   - Backups
 - Me
@@ -58,3 +57,6 @@
 - Travel
   - Trip log
   - Jetlag
+
+## Tasks
+- Pull detailed hiking trip logs out to blog and link to them from here

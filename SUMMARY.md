@@ -13,6 +13,7 @@
 - [Food](food/food.md)
   - [Grocery Staples](food/grocery-staples.md)
 - [Hiking](hiking/hiking.md)
+  - [Trip Log](hiking/trip-log.md)
 - [ADHD](adhd/adhd.md)
   - [Concerta](adhd/concerta.md)
 
