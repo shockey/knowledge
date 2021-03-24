@@ -4,9 +4,18 @@ This is the exercise routine I currently follow. The weightlifting routine has p
 
 ## Cardio
 
-Row on an ergometer as fast as possible for a 250 meter interval, then rest for as long as the interval took you to perform.
+Row the following intervals on an ergometer for time:
+- 500 meters
+- 500 meters
+- 2000 meters
+- 2000 meters
 
-Start with 3 intervals, then progress by adding more intervals ~weekly. Track pace and total distance as performance indicators.
+After each interval, rest for the shorter of five minutes and as long as the interval took you to perform.
+
+Track pace in each interval as progress indicators.
+
+### Links
+- [Concept2: Correct Rowing Technique (2010, youtube.com)](https://www.youtube.com/watch?v=zQ82RYIFLN8&t=248s)
 
 ## Weightlifting
 
