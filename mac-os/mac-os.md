@@ -17,6 +17,7 @@
 - [**Pastebot**](https://tapbots.com/pastebot/) — a clipboard manager.
 - [**Paw**](https://paw.cloud) — a graphical API client.
 - [**Postico**](https://eggerapps.at/postico/) — a modern, very slick Postgres client.
+- [**RecordIt**](https://recordit.co) — easy, breezy screencasts.
 - [**Spark**](https://sparkmailapp.com) — intuitive, performant multi-inbox email client.
 - [**SuperDuper!**](https://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html) — make bootable clones of a macOS partition on an external drive.
 - [**TablePlus**](https://tableplus.com) — a solid graphical client for Postgres, MySQL, SQLite, Cassandra, Redis, CockroachDB, and more.
