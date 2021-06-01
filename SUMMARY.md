@@ -35,3 +35,6 @@
 
 - [macOS](mac-os/mac-os.md)
   - [Hyper shortcuts](mac-os/hyper-shortcuts.md)
+
+- Learning
+  - [Languages](learning/languages.md)
