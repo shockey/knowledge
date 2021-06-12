@@ -1,6 +1,6 @@
 # macOS
 
-## Things I recommend
+## Recommendations
 - [**AltTab**](https://github.com/lwouis/alt-tab-macos) — a Cmd+Tab replacement that provides a ring buffer of windows instead of applications.
 - [**Arq**](https://www.arqbackup.com) — rock-solid, scheduled, scriptable incremental backup to a NAS or cloud storage account you own.
 - [**Bartender**](https://www.macbartender.com) — a menubar app that hides other menubar apps. which is helpful when you have this many menubar apps!
